@@ -1,0 +1,19 @@
+->  conda create -n newenv python==3.11.5
+
+-> pip install tensorflow==2.12               
+
+->pip install scikit-learn==1.5.0
+
+->pip install imbalanced-learn==0.12.3
+
+->pip install beautifulsoup4==4.12.2
+
+->pip install google-search==1.1.1
+
+->pip install google
+
+->pip install python-whois==0.8.0
+
+->pip install python-dateutil==2.8.2
+
+->pip install pandas==2.0.3
